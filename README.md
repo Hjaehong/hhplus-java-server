@@ -24,3 +24,14 @@
 ```bash
 docker-compose up -d
 ```
+
+
+
+
+## 다이어그램
+
+### ERD 
+![!이미지 없음](docs/콘서트예약ERD.jpg)
+
+### 스퀸스
+![!이미지 없음](docs/스퀸스%20다이어그램.jpg)

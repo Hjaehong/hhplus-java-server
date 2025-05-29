@@ -2,6 +2,19 @@
 
 ## Getting Started
 
+----
+요구사항 분석
+
+[유저 대기열](docs/유저_대기열.md)
+
+[예약 가능 날짜](docs/날짜_예약_좌석.md)
+
+[좌석 예약 요청](docs/좌석_예약_요청.md)
+
+[잔액 충전 / 조회](docs/잔액_충전과_조회.md)
+
+[결재 API](docs/결재.md)
+
 ### Prerequisites
 
 #### Running Docker Containers

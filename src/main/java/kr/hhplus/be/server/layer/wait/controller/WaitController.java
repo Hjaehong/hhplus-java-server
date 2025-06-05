@@ -1,4 +1,4 @@
 package kr.hhplus.be.server.layer.seat.controller;
 
-public class SeatController {
+public class WaitController {
 }
